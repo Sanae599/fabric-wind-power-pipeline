@@ -12,7 +12,7 @@ Ce projet implémente une architecture Medallion (Bronze/Silver/Gold) complète 
 - Visualisation dans Power BI
 
 ## Architecture
-GitHub (CSV) → Bronze → Silver → Gold → Semantic Model → Power BI
+GitHub (CSV) -> Bronze -> Silver -> Gold -> Semantic Model -> Power BI
 
 
 ## Technologies utilisées
